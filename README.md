@@ -1,3 +1,9 @@
+# To run this project
+
+```
+bundle exec jekyll serve
+```
+
 # Create a new post with a Thor command.
 
 You can create a new post with markdown without hacing to write it manually.
